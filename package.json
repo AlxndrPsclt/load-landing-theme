@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrede88/qubt.git"
+    "url": "git+https://github.com/AlxndrPsclt/load-landing-theme.git"
   },
-  "homepage": "https://github.com/chrede88/qubt#readme",
+  "homepage": "https://github.com/AlxndrPsclt/load-landing-theme#readme",
   "keywords": [
     "Hugo",
     "blog",
